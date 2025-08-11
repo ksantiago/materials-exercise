@@ -6,7 +6,7 @@ This document outlines the design and implementation of the privacy preferences 
 
 The solution replaced a non-compliant third-party tool, integrated with OneTrust for cookie enforcement, and synced preferences to Simon Data in near real time. It was designed to be secure, scalable, and aligned with Kimberly-Clark’s enterprise privacy standards.
 
-The **Privacy Preferences Flow Diagram** (see attached) visually represents the logic for guest and logged-in users in both initial render and post-change scenarios.
+The [**Privacy Preferences Flow Diagram**](https://github.com/ksantiago/materials-exercise/blob/main/writing-samples/thinx-privacy-preference-diagram.pdf) visually represents the logic for guest and logged-in users in both initial render and post-change scenarios.
 
 ---
 
