@@ -5,7 +5,7 @@
 This diagram comes from the Shopify theme project we launched after Kimberly-Clark acquired Thinx.
 It’s separate from the headless Shopify + Next.js code samples in the `work-samples` folder — this reflects the new storefront architecture we put in place after the migration.
 
-I created it shortly after launch so both engineering and non-technical teams could share a single, high-level view of all the tools and integrations in use.
+I created it shortly after launch to give both engineering and non-technical teams a shared, high-level view of all the tools and integrations in use. I put it together quickly, in collaboration with others, to ensure we had essential documentation in place before I moved on to other queued projects.
 
 **[View the System Architecture Diagram (PDF)](https://github.com/ksantiago/materials-exercise/blob/main/writing-samples/THINX-Shopify-system-architecture.pdf)**
 
